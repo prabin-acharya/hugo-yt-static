@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://prabin-acharya.github.io/hugo-yt-static/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Jan 2023 17:50:29 +0545</lastBuildDate><atom:link href="https://prabin-acharya.github.io/hugo-yt-static/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Entrop</title>
+      <link>https://prabin-acharya.github.io/hugo-yt-static/entrop/</link>
+      <pubDate>Wed, 18 Jan 2023 17:59:36 +0545</pubDate>
+      
+      <guid>https://prabin-acharya.github.io/hugo-yt-static/entrop/</guid>
+      <description>Entropy </description>
+    </item>
+    
+    <item>
+      <title>Hello</title>
+      <link>https://prabin-acharya.github.io/hugo-yt-static/posts/hello/</link>
+      <pubDate>Wed, 18 Jan 2023 17:50:29 +0545</pubDate>
+      
+      <guid>https://prabin-acharya.github.io/hugo-yt-static/posts/hello/</guid>
+      <description>Hello from hugo!!! </description>
+    </item>
+    
+  </channel>
+</rss>
